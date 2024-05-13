@@ -1,0 +1,13 @@
+C:/Users/mattk/STM32Cube/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:80:5:main	1
+C:/Users/mattk/STM32Cube/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:137:6:SystemClock_Config	3
+C:/Users/mattk/STM32Cube/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:185:13:MX_ADC1_Init	3
+C:/Users/mattk/STM32Cube/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:237:13:MX_CRC_Init	2
+C:/Users/mattk/STM32Cube/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:263:13:MX_RTC_Init	4
+C:/Users/mattk/STM32Cube/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:326:6:MX_TIM3_Init	4
+C:/Users/mattk/STM32Cube/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:369:13:MX_DMA_Init	1
+C:/Users/mattk/STM32Cube/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:387:13:MX_GPIO_Init	1
+C:/Users/mattk/STM32Cube/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:426:10:getPotValue	1
+C:/Users/mattk/STM32Cube/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:434:6:servoControl	1
+C:/Users/mattk/STM32Cube/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:438:6:mapFunction	1
+C:/Users/mattk/STM32Cube/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:442:6:lcdControl	1
+C:/Users/mattk/STM32Cube/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:452:6:Error_Handler	1
