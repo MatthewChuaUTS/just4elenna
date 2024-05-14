@@ -1,0 +1,10 @@
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/stm32f4xx_hal_msp.c:66:6:HAL_MspInit	1
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/stm32f4xx_hal_msp.c:90:6:HAL_ADC_MspInit	2
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/stm32f4xx_hal_msp.c:123:6:HAL_ADC_MspDeInit	2
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/stm32f4xx_hal_msp.c:151:6:HAL_CRC_MspInit	2
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/stm32f4xx_hal_msp.c:173:6:HAL_CRC_MspDeInit	2
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/stm32f4xx_hal_msp.c:195:6:HAL_RTC_MspInit	3
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/stm32f4xx_hal_msp.c:228:6:HAL_RTC_MspDeInit	2
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/stm32f4xx_hal_msp.c:250:6:HAL_TIM_Base_MspInit	3
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/stm32f4xx_hal_msp.c:283:6:HAL_TIM_MspPostInit	3
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/stm32f4xx_hal_msp.c:335:6:HAL_TIM_Base_MspDeInit	3

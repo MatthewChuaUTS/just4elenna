@@ -1,0 +1,15 @@
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:86:5:main	4
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:167:6:SystemClock_Config	3
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:215:13:MX_ADC1_Init	3
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:267:13:MX_CRC_Init	2
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:293:13:MX_RTC_Init	4
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:356:13:MX_TIM2_Init	6
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:415:6:MX_TIM3_Init	6
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:472:13:MX_DMA_Init	1
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:490:13:MX_GPIO_Init	1
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:553:6:pulseYellowLED	5
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:571:6:blinkRed	2
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:579:5:getAdcFromPot	1
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:587:6:getPotValue	1
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:599:6:myMap	1
+C:/Users/mattk/Downloads/X-CUBE-MEMS1-main/X-CUBE-MEMS1-main/Projects/NUCLEO-F401RE/Applications/CUSTOM/PresenceDetection_STHS34PF80/Src/main.c:609:6:Error_Handler	1
